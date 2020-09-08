@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+.header{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+#input-t{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
